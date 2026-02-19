@@ -20,14 +20,14 @@
 📥 [Download My Resume](./CV_Devender_Singh_2026.pdf)
 
 ---
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/devendersingh29" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
   </a>
-  <a href="https://github.com/devendersingh29" target="_blank">
+  <a href="https://github.com/devende" target="_blank">
     <b>devendersingh1999</b>
   </a>
-</p>
+</p> -->
 
 📫 Email: **devendersingh29121999@gmail.com**
 
