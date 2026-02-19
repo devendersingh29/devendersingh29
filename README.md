@@ -100,5 +100,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendersingh1999&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendersingh29&theme=tokyonight" />
 </p>
