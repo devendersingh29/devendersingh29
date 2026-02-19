@@ -20,29 +20,18 @@
 📥 [Download My Resume](./CV_Devender_Singh_2026.pdf)
 
 ---
-<!-- <p align="left">
+<p align="left">
   <a href="https://github.com/devendersingh29" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
   </a>
   <a href="https://github.com/devende" target="_blank">
     <b>devendersingh1999</b>
   </a>
-</p> -->
+</p>
 
 📫 Email: **devendersingh29121999@gmail.com**
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devender-s" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devender-singh-609b3124b" height="30" width="40" />
-</a>
-
-</p>
-
----
-
 ## 🛠 Languages and Tools
 
 <p align="left">
