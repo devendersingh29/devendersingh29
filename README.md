@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devender Singh</h1>
-<h3 align="center">AWS DevOps Engineer | Cloud & Automation</h3>
+<h3 align="center">AWS DevOps Engineer (Fresher)| Cloud & Automation</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=AWS+DevOps+Engineer;Cloud+Automation;Kubernetes+%7C+Terraform+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=AWS+DevOps+Engineer+Fresher;Cloud+Automation;Kubernetes+%7C+Terraform+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
 
 ---
 
