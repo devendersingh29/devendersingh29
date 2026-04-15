@@ -25,7 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
   </a>
   <a href="https://github.com/devendersingh29" target="_blank">
-    <b>devendersingh1999</b>
+    <b>devendersingh29</b>
   </a>
 </p>
 
